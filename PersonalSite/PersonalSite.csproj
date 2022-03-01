@@ -184,6 +184,7 @@
     <Content Include="assets\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="assets\vendor\typed.js\typed.min.js.map" />
     <Content Include="assets\img\CodeingResumeMattRoberts.pdf" />
+    <Content Include="assets\img\RevisedResume.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
